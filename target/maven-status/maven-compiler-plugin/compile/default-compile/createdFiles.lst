@@ -1,0 +1,11 @@
+com\h2\prueba\model\response\Response.class
+com\h2\prueba\service\PricesService.class
+com\h2\prueba\model\table\Prices.class
+com\h2\prueba\model\table\Prices$PricesBuilder.class
+com\h2\pruebas\config\JPAStreamerConfig.class
+com\h2\prueba\utils\ConversorFechas.class
+com\h2\prueba\controller\PricesController.class
+com\h2\prueba\model\table\Prices$.class
+com\h2\prueba\PruebaApplication.class
+com\h2\prueba\mapping\ResposeMapping.class
+com\h2\prueba\model\response\PricesResponse.class

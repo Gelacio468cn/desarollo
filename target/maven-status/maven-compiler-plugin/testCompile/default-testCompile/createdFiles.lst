@@ -1,0 +1,7 @@
+com\h2\prueba\mapping\ResposeMappingTest.class
+com\h2\prueba\model\response\ResponseTest.class
+com\h2\prueba\service\PricesServiceTest.class
+com\h2\prueba\controller\PricesControllerTest.class
+com\h2\prueba\config\JPAStreamerConfigTest.class
+com\h2\prueba\model\response\PricesResponseTest.class
+com\h2\prueba\model\table\PricesTest.class

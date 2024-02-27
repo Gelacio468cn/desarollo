@@ -1,0 +1,4 @@
+INSERT INTO prices(brandId,currency,endDate,price,priceList,priority,productId,startDate) values(1,'EUR','2020-12-31-23.59.59',35.5,1,0,'35455','2020-06-14-00.00.00')
+INSERT INTO prices(brandId,currency,endDate,price,priceList,priority,productId,startDate) values(2,'EUR','2020-06-14-18.30.00',25.45,2,1,'35455','2020-06-14-15.00.00')
+INSERT INTO prices(brandId,currency,endDate,price,priceList,priority,productId,startDate) values(3,'EUR','2020-06-15-11.00.00',30.5,3,1,'35455','2020-06-15-00.00.00')
+INSERT INTO prices(brandId,currency,endDate,price,priceList,priority,productId,startDate) values(4,'EUR','2020-12-31-23.59.59',38.95,4,1,'35455','2020-06-15-16.00.00')
